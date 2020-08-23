@@ -12,13 +12,13 @@
 
 - 基本のURLは`http://localhost:8000`
 
-|メソッド|エンドポイント|
-|----|----|
-|GET|api/posts|
-|POST|api/posts|
-|GET|api/posts/{id}|
-|PUT|api/posts/{id}|
-|DELETE|api/posts/{id}|
+|メソッド|エンドポイント|概要|
+|----|----|----|
+|GET|api/posts|一覧情報を取得する|
+|POST|api/posts|コメントを登録する|
+|GET|api/posts/{id}|コメントの詳細情報を取得する|
+|PUT|api/posts/{id}|コメントを編集する|
+|DELETE|api/posts/{id}|コメントを削除する|
 
 ## About Laravel
 
