@@ -10,6 +10,8 @@
 ## API Reference
 1. `php artisan serve` をターミナルで実行する
 
+- 基本のURLは`http://localhost:8000`
+
 |メソッド|エンドポイント|
 |----|----|
 |GET|api/posts|
